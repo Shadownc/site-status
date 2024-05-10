@@ -29,7 +29,7 @@ const Footer = () => {
         <p>
           Copyright&nbsp;&copy;&nbsp;2021&nbsp;-&nbsp;{new Date().getFullYear()}
           &nbsp;
-          <CustomLink to="https://dev.yesmore.cc" text="Yesmore" />
+          <CustomLink to="https://blog.lmyself.top" text="IMyself" />
         </p>
       </div>
     </footer>
