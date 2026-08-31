@@ -1,0 +1,31 @@
+{
+  "name": "site-status-vue",
+  "alia": "SiteStatus",
+  "private": true,
+  "version": "1.2.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@antv/g2plot": "2.4.31",
+    "@icon-park/vue-next": "1.4.2",
+    "ant-design-vue": "4.1.2",
+    "axios": "^1.6.5",
+    "dayjs": "^1.11.10",
+    "overlayscrollbars": "^2.16.0",
+    "overlayscrollbars-vue": "^0.5.10",
+    "pinia": "2.1.7",
+    "vue": "3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "4.6.2",
+    "sass": "^1.69.7",
+    "terser": "^5.26.0",
+    "vite": "^4.5.1",
+    "vite-plugin-compression": "^0.5.1",
+    "vite-plugin-pwa": "^0.16.7"
+  }
+}
